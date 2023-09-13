@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50bac60-277b-47d8-bf9b-3e65ae77925e" name="Changes" comment="Bài thi">
-      <change beforePath="$PROJECT_DIR$/src/service/ProductManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ProductManage.java" afterDir="false" />
-    </list>
+    <list default="true" id="f50bac60-277b-47d8-bf9b-3e65ae77925e" name="Changes" comment="Bài thi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694572293673</updated>
-      <workItem from="1694572294687" duration="6397000" />
+      <workItem from="1694572294687" duration="6479000" />
     </task>
     <task id="LOCAL-00001" summary="Bài thi">
       <option name="closed" value="true" />
@@ -83,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694578414063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bài thi">
+      <option name="closed" value="true" />
+      <created>1694578828269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694578828269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -36,7 +36,7 @@ public class ProductManage {
     public void add() {
         System.out.println("Enter product ID: ");
         int id = ExceptionManager.exceptionPositiveInteger();
-        if (checkID(id) != null) {
+        if (checkID(id) == null) {
             System.out.println("Enter product name: ");
             String name = scanner.nextLine();
             System.out.println("Enter product price: ");
