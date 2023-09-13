@@ -39,9 +39,7 @@ public class ProductManage {
         if (checkID(id) == null) {
             System.out.println("Enter product name: ");
             String name = scanner.nextLine();
-            System.out.println("Enter product price: ");
             double price = ExceptionManager.exceptionPrice();
-            System.out.println("Enter product quantity: ");
             int quantity = ExceptionManager.exceptionQuantity();
             System.out.println("Enter product description: ");
             String description = scanner.nextLine();
