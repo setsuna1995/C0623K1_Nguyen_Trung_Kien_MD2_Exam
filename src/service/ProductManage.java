@@ -128,7 +128,7 @@ public Product checkID (int id) {
     }
 
     public void findMaxPrice() {
-        Product product = new Product();
+        Product product = productList.get(0);
         for (Product p : productList
         ) {
             if (p.getPrice() > product.getPrice()) {

@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f50bac60-277b-47d8-bf9b-3e65ae77925e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD2_C0623K1_Nguyen_Trung_Kien_Exam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ExceptionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ProductManage.java" afterDir="false" />
+    <list default="true" id="f50bac60-277b-47d8-bf9b-3e65ae77925e" name="Changes" comment="Bài thi">
+      <change beforePath="$PROJECT_DIR$/src/service/ProductManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ProductManage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +73,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694572293673</updated>
-      <workItem from="1694572294687" duration="5993000" />
+      <workItem from="1694572294687" duration="6397000" />
     </task>
+    <task id="LOCAL-00001" summary="Bài thi">
+      <option name="closed" value="true" />
+      <created>1694578414063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694578414063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bài thi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bài thi" />
   </component>
 </project>
